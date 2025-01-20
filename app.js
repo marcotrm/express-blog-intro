@@ -14,31 +14,31 @@ app.get("/bacheca", (req, res) => {
             {
               titolo: "I Benefici dell'Allenamento a Circuito",
               contenuto: "Scopri come l'allenamento a circuito può migliorare la tua forza e resistenza.",
-              immagine: "circuit_training.jpg",
+              immagine: "/img/pasta_barbabietola.jpeg",
               tags: ["allenamento", "fitness", "salute"]
             },
             {
               titolo: "Ricetta di Smoothie Proteico",
               contenuto: "Una ricetta semplice e veloce per un delizioso smoothie proteico post-allenamento.",
-              immagine: "smoothie_proteico.jpg",
+              immagine: "/img/ciambellone.jpeg",
               tags: ["ricetta", "nutrizione", "proteine"]
             },
             {
               titolo: "Guida all'HTML per Principianti",
               contenuto: "Impara le basi di HTML per creare il tuo primo sito web.",
-              immagine: "html_guide.jpg",
+              immagine: "/img/pane_fritto_dolce.jpeg",
               tags: ["programmazione", "HTML", "web development"]
             },
             {
               titolo: "I Migliori Esercizi per i Bicipiti",
               contenuto: "Una selezione dei migliori esercizi per sviluppare bicipiti forti e definiti.",
-              immagine: "bicipiti_esercizi.jpg",
+              immagine: "/img/cracker_barbabietola.jpeg",
               tags: ["allenamento", "bicipiti", "muscoli"]
             },
             {
               titolo: "5 Consigli per Dormire Meglio",
               contenuto: "Suggerimenti pratici per migliorare la qualità del sonno e sentirsi più energici.",
-              immagine: "dormire_meglio.jpg",
+              immagine: "/img/torta_paesana.jpegpost",
               tags: ["salute", "benessere", "sonno"]
             }
           ]
